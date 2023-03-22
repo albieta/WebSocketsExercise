@@ -1,1 +1,1 @@
-# Chat application with React.js, Flutter, Node.js & Socket.io
+# Chat application with React.js, Flutter, Angular, Node.js & Socket.io
