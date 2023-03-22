@@ -1,0 +1,28 @@
+# ninja log v5
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/libflutter_linux_gtk.so	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_engine.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_value.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_view.h	ac4cde83602ed74e
+0	18932	0	/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	ac4cde83602ed74e
+0	18932	0	flutter/_phony_	ac4cde83602ed74e
+18933	19877	1679169048065652170	CMakeFiles/flutter_application_1.dir/flutter/generated_plugin_registrant.cc.o	f56fb735d7aa5734
+18933	19940	1679169048129651975	CMakeFiles/flutter_application_1.dir/main.cc.o	d0cd5486c6e6029
+18933	19967	1679169048157651889	CMakeFiles/flutter_application_1.dir/my_application.cc.o	321b3afdfe694610
+19968	20275	1679169048465650950	intermediates_do_not_run/flutter_application_1	563d8731929fc7cf
+20275	20456	0	CMakeFiles/install.util	d07a292ba0e026e6

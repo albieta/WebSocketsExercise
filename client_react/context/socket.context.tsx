@@ -13,7 +13,7 @@ interface Context {
   rooms: object;
 }
 
-const socket = io(SOCKET_URL);
+const socket = io("http://localhost:4000");
 
 const SocketContext = createContext<Context>({
   socket,

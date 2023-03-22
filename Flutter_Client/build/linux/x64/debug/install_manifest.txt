@@ -1,0 +1,11 @@
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/albieta/Documents/4B/ENGINYERIA D'APLICACIONS/SEM7-JWT-Websockets/Realtime-Chat-Application/Flutter_Client/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
