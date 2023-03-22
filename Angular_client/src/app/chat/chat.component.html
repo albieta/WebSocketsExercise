@@ -1,0 +1,36 @@
+<h1 class="text-center text-uppercase">WEB SOCKETS CLIENT WITH ANGULAR</h1>
+
+<form class="mb-3">
+  <div class="form-group" [hidden]="hideFirstDiv">
+    <label for="name">Name:</label>
+    <input id="name" type="text" [(ngModel)]="name" name="name" class="form-control">
+    <button type="submit" (click)="submitName()" class="btn btn-primary">Send</button>
+  </div>
+
+  <div class="form-group" [hidden]="hideSecondDiv">
+    <label for="room">Create a room:</label>
+    <input id="newRoom" type="text" [(ngModel)]="room" name="room" class="form-control" #newRoom>
+    <button type="submit" (click)="handleCreateRoom()" class="btn btn-primary">Send</button>
+  </div>
+
+  <div class="form-group" [hidden]="hideSecondDiv">
+    <label for="jroom">Join a room:</label>
+    <input id="jroom" type="text" [(ngModel)]="jroom" name="jroom" class="form-control">
+    <button type="submit" (click)="joinRoom(jroom)" class="btn btn-primary">Send</button>
+  </div>
+
+  <div class="form-group" [hidden]="hideThirdDiv">
+    <label for="message">Message:</label>
+    <input id="newMessage" type="text" [(ngModel)]="newMessage" name="message" class="form-control">
+    <button type="submit" (click)="sendMessage()" class="btn btn-primary">Send</button>
+  </div>
+
+  
+</form>
+<div class="messages">
+    <div class="message" *ngFor="let message of messages">
+      <strong>{{message.username}}:</strong> {{message.message}}
+    </div>
+</div>
+
+  

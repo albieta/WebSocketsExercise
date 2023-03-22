@@ -1,0 +1,42 @@
+/* component.css */
+h1 {
+    color: rgb(192, 126, 219);
+    text-align: center;
+  }
+form {
+    background-color: #b3e3f0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  label {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5px;
+  }
+  
+  .messages {
+    margin-top: 20px;
+  }
+  
+  .message {
+    background-color: #85dcc9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
